@@ -1,0 +1,15 @@
+{
+  "name": "cross_sword",
+  "version": "0.1.0",
+  "description": "CrossSword crossword creation laboratory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.14.36",
+    "typescript": "^4.2.3"
+  }
+}
